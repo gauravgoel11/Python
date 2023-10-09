@@ -18,4 +18,17 @@
 # float()
 # str()
 # bool()
+
+#operators
 # print(5%2)
+# print(5**2)
+# print(2+3/5)
+
+# logical operator
+# print(2>3 or 2>1)
+# print(not 2>3)
+
+# loops
+
+
+
