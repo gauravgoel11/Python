@@ -29,6 +29,12 @@
 # print(not 2>3)
 
 # loops
+# age = int(input("Enter your age : "))
+# if age>=18:
+#     print("you are an adult")
+# else:
+#     print("you are not an adult")
 
-
-
+#range
+# for i in range(199,0,-5):
+#     print(i)
