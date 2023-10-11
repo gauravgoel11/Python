@@ -35,6 +35,12 @@
 # else:
 #     print("you are not an adult")
 
-range
-for i in range(199,0,-5):
-    print(i)
+# range
+# for i in range(199,0,-5):
+#     print(i)
+
+#Liat data type
+marks = [95,98,97]
+# print(marks[0:3])
+for score in marks :
+    print(score)
