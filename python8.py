@@ -35,6 +35,6 @@
 # else:
 #     print("you are not an adult")
 
-#range
-# for i in range(199,0,-5):
-#     print(i)
+range
+for i in range(199,0,-5):
+    print(i)
